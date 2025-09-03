@@ -11,10 +11,10 @@ I'm a **Data Science** student at USP, passionate about **Machine Learning**, **
 - **Software Developer - Raia** (Mar 2025 - Present)  
   - Developed AI solutions for **SignLink** with **Keras**, **PyTorch**, and **TensorFlow**.
   
-- **Data Science Consultant - ICMC Júnior Enterprise** (Oct 2024 - Present)  
+- **Data Science Consultant - ICMC Júnior Enterprise** (Oct 2024 - Aug 2025)  
   - Led projects for **Spotify pattern analysis** and **marine animal data**.
 
-- **Undergraduate Researcher - IME-USP** (Jun 2024 - Present)  
+- **Undergraduate Researcher - IME-USP** (Jun 2024 - Sep 2025)  
   - Worked on **BikeScience project** using **Machine Learning** to optimize bike station locations.
 
 ## 🔧 Technical Skills
