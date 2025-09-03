@@ -11,10 +11,10 @@ I'm a **Data Science** student at USP, passionate about **Machine Learning**, **
 - **Software Developer - Raia** (Mar 2025 - Present)  
   - Developed AI solutions for **SignLink** with **Keras**, **PyTorch**, and **TensorFlow**.
   
-- **Data Science Consultant - ICMC Júnior Enterprise** (Oct 2024 - Aug 2025)  
+- **Data Science Consultant - ICMC Júnior Enterprise** (Oct 2024 - Present)  
   - Led projects for **Spotify pattern analysis** and **marine animal data**.
 
-- **Undergraduate Researcher - IME-USP** (Jun 2024 - Sep 2025)  
+- **Undergraduate Researcher - IME-USP** (Jun 2024 - Present)  
   - Worked on **BikeScience project** using **Machine Learning** to optimize bike station locations.
 
 ## 🔧 Technical Skills
@@ -38,9 +38,9 @@ I'm a **Data Science** student at USP, passionate about **Machine Learning**, **
 ---
 
 ## 🚀 Top Repositories
-- [**BikeScience**](https://github.com/GabrielIamato/BikeScience) – Optimizing bike station locations with ML.
-- [**SignLink Software**](https://github.com/GabrielIamato/SignLink) – AI-driven sign language project.
-- [**Spotify Trend Analysis**](https://github.com/GabrielIamato/Spotify-Trend-Analysis) – Analyzing song trends with NLP.
+- [**SpellNet**](https://github.com/gruporaia/SpellNet) – AI-based solution for sign language recognition.
+- [**Price Houses Prediction ML**](https://github.com/GabrielIamato/price_houses_prediction_ml) – Predicting house prices using machine learning.
+- [**Bike Sharing System Analysis**](https://github.com/GabrielIamato/bike_sharing_system_analysis) – Analyzing bike-sharing systems using data science.
 
 ---
 
@@ -48,5 +48,3 @@ I'm a **Data Science** student at USP, passionate about **Machine Learning**, **
 - **Portuguese** (Native)
 - **English** (Advanced)
 - **Spanish** (Basic)
-
----
