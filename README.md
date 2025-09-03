@@ -1,46 +1,46 @@
-# Hi, I'm Gabriel Campanelli Iamato 👨‍💻
+# 👋 Hi, I'm Gabriel Campanelli Iamato
 
-Welcome to my GitHub profile! I'm currently studying **Data Science** at the University of São Paulo (USP), with a background in **Computer Science** and **Computer Technician**. Passionate about **AI**, **Machine Learning**, **Data Science**, and **Web Development**.
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielIamato&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
+I'm a **Data Science** student at USP, passionate about **Machine Learning**, **AI**, and **Web Development**.
 
 ## 📚 Education
-
-### University of São Paulo (USP)
-- **Bachelor of Data Science** (Feb. 2025 - Jan. 2029)
-- **Bachelor of Computer Science** (GPA: 9.0/10) (Feb. 2024 - Jan. 2025)
-
-### PROF. ISAAC PORTAL ROLDÁN Industrial Technical College (CTI)
-- **Computer Technician** (GPA: 9.6/10) (Feb. 2021 - Apr. 2024)
-
----
+- **Data Science - USP (2025-2029)**
+- **Computer Science - USP (2024-2025)** - GPA: 9.0/10
+- **Computer Technician - CTI (2021-2024)** - GPA: 9.6/10
 
 ## 💼 Experience
+- **Software Developer - Raia** (Mar 2025 - Present)  
+  - Developed AI solutions for **SignLink** with **Keras**, **PyTorch**, and **TensorFlow**.
+  
+- **Data Science Consultant - ICMC Júnior Enterprise** (Oct 2024 - Present)  
+  - Led projects for **Spotify pattern analysis** and **marine animal data**.
 
-### Raia, AI Advancement Network (Mar. 2025 - Present)
-- **Software Developer** working with Keras, PyTorch, TensorFlow, Deep Learning, Computer Vision, and Neural Networks.
-- Developed software for **SignLink**, aiming to democratize access to sign language.
+- **Undergraduate Researcher - IME-USP** (Jun 2024 - Present)  
+  - Worked on **BikeScience project** using **Machine Learning** to optimize bike station locations.
 
-### ICMC Júnior Enterprise (Oct. 2024 - Present)
-- **Data Science Consultant and Sales Advisor**: Led the development of innovative projects, including Spotify song pattern identification and marine biological data analysis.
+## 🔧 Technical Skills
+- **Languages**: Python 🐍, SQL, JavaScript, C++, Java
+- **AI/ML**: TensorFlow 🤖, Keras, PyTorch, scikit-learn
+- **Web**: Flask, Django, JavaScript, HTML/CSS
+- **Tools**: Git, GitHub, PostgreSQL, Jupyter Notebook, Power BI
+- **Databases**: MySQL, PostgreSQL
 
-### IME-USP (June 2024 - Present)
-- **Undergraduate Researcher** in the **BikeScience project**: Focused on Machine Learning, Data Preprocessing, and Geospatial Data for bicycle station location optimization.
+## 📊 GitHub Stats
 
-### FC-UNESP (Apr. 2023 - Aug. 2024)
-- **Research Assistant**: Analyzed São Paulo's bike-sharing system using statistical tests, geospatial data, and interactive visualizations.
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielIamato&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-## 🔧 Technical Skills
+## 📬 Contact
+- [LinkedIn](https://linkedin.com/in/gabriel-campanelli-iamato) 
+- ✉️ [Email](mailto:gabiamato13@gmail.com)
+- 📱 +55 14 991620791
 
-- **Programming Languages**: Python 🐍, C, C++, C#, SQL, JavaScript, Java, PHP
-- **Frameworks**: Flask, Laravel, jQuery
-- **Technologies**: Git, GitHub, Visual Studio Code, Jupyter Notebook, Power BI, PostgreSQL, Arduino
-- **AI Tools**: TensorFlow 🤖, Keras, PyTorch
-- **Data Science Libraries**: pandas, scikit-learn, matplotlib, seaborn, geopandas, numpy, folium, Mediapipe
+---
+
+## 🚀 Top Repositories
+- [**BikeScience**](https://github.com/GabrielIamato/BikeScience) – Optimizing bike station locations with ML.
+- [**SignLink Software**](https://github.com/GabrielIamato/SignLink) – AI-driven sign language project.
+- [**Spotify Trend Analysis**](https://github.com/GabrielIamato/Spotify-Trend-Analysis) – Analyzing song trends with NLP.
 
 ---
 
@@ -50,32 +50,3 @@ Welcome to my GitHub profile! I'm currently studying **Data Science** at the Uni
 - **Spanish** (Basic)
 
 ---
-
-## 📌 Main Repositories
-
-- [**BikeScience**](https://github.com/GabrielIamato/BikeScience) – Machine learning model to suggest optimal bike station locations.
-- [**SignLink Software**](https://github.com/GabrielIamato/SignLink) – AI-based solution for democratizing sign language access.
-- [**Spotify Trend Analysis**](https://github.com/GabrielIamato/Spotify-Trend-Analysis) – Trend analysis of Spotify song data using NLP and statistical methods.
-
----
-
-## 💬 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/gabriel-campanelli-iamato)
-- [Website](https://interscity.org/)
-- Email: gabiamato13@gmail.com
-- Phone: +55 14 991620791
-
----
-
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielIamato&langs_count=10&theme=radical)
-
----
-
-## 🧑‍💻 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Python (Flask, Django), PHP, Java
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Git, GitHub, Docker, Jenkins
