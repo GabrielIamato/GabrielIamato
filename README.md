@@ -38,9 +38,9 @@ I'm a **Data Science** student at USP, passionate about **Machine Learning**, **
 ---
 
 ## 🚀 Top Repositories
+- [**Bike Sharing System Analysis**](https://github.com/GabrielIamato/bike_sharing_system_analysis) – Analyzing bike-sharing systems using data science.
 - [**SpellNet**](https://github.com/gruporaia/SpellNet) – AI-based solution for sign language recognition.
 - [**Price Houses Prediction ML**](https://github.com/GabrielIamato/price_houses_prediction_ml) – Predicting house prices using machine learning.
-- [**Bike Sharing System Analysis**](https://github.com/GabrielIamato/bike_sharing_system_analysis) – Analyzing bike-sharing systems using data science.
 
 ---
 
