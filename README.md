@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Campanelli Iamato
 
-I'm a **Data Science** student at USP, passionate about **Machine Learning**, **AI**, and **Web Development**.
+I'm a **Data Science** student at USP, passionate about **Machine Learning**, **AI**, and **Data Analysis**.
 
 ## 📚 Education
 - **Data Science - USP (2025-2029)**
